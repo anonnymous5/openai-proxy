@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@upstash/ratelimit": "^1.0.0",
-    "cycletls": "^1.0.21",
+    "cycletls": "^1.0.25",
     "googlebard": "^1.0.7",
     "next": "latest",
     "react": "^18.2.0",
